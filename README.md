@@ -28,7 +28,7 @@ Building modern, responsive & interactive web experiences.
 ### ⚙️ Backend & Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,php" />
+  <img src="https://skillicons.dev/icons?i=mysql,java,php" />
 </p>
 
 ### 🔧 Tools
@@ -48,7 +48,9 @@ Building modern, responsive & interactive web experiences.
 <br>
 
 ### 🛍️ VastraLoom — E-Commerce Website
-
+<!-- <p align="center">
+  <img src="VastraLoom.png" width="800">
+</p> -->
 > A modern men's fashion e-commerce experience focused on responsive design, interactive product UI and smooth animations.
 
 **✨ Highlights**
@@ -65,6 +67,7 @@ Building modern, responsive & interactive web experiences.
 ---
 
 ### 💻 Personal Portfolio
+
 
 > A modern developer portfolio designed to showcase my projects, skills and frontend work through interactive animations.
 

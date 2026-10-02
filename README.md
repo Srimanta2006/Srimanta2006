@@ -91,11 +91,11 @@ Building modern, responsive & interactive web experiences.
 
 ** ✨ Highlights**
 
--➕ Addition, subtraction, multiplication & division
--🔢 Real-time calculation and input handling
--🧹 Clear and reset functionality
--📱 Responsive interface
--⚡ Fast and lightweight
+- ➕ Addition, subtraction, multiplication & division
+- 🔢 Real-time calculation and input handling
+- 🧹 Clear and reset functionality
+- 📱 Responsive interface
+- ⚡ Fast and lightweight
 
 **🛠️ Tech:** HTML • CSS • JavaScript
 
@@ -109,11 +109,11 @@ Building modern, responsive & interactive web experiences.
 
 **✨ Highlights**
 
--🌍 Search weather by city
--🌡️ Real-time temperature and weather conditions
--💨 Wind speed and humidity details
--☁️ Dynamic weather information using API
--📱 Responsive and user-friendly interface
+- 🌍 Search weather by city
+- 🌡️ Real-time temperature and weather conditions
+- 💨 Wind speed and humidity details
+- ☁️ Dynamic weather information using API
+- 📱 Responsive and user-friendly interface
 
 **🛠️ Tech:** HTML • CSS • JavaScript • Weather API
 

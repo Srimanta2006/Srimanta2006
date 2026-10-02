@@ -84,39 +84,40 @@ Building modern, responsive & interactive web experiences.
 
 ---
 
-### 🏋️ FORGE-GYM
 
-> A responsive fitness website built with a modern interface and interactive frontend components.
+### 🧮 CALCULATOR
 
-**✨ Highlights**
+> A simple and responsive calculator web application designed to perform basic arithmetic operations with an intuitive user interface.
 
-- 🏋️ Fitness-focused UI
-- 📱 Responsive design
-- 🎨 Modern interface
-- ⚡ Interactive components
+** ✨ Highlights**
+
+-➕ Addition, subtraction, multiplication & division
+-🔢 Real-time calculation and input handling
+-🧹 Clear and reset functionality
+-📱 Responsive interface
+-⚡ Fast and lightweight
 
 **🛠️ Tech:** HTML • CSS • JavaScript
 
-🔗 **[View Repository](YOUR_FORGE_GYM_REPO_LINK)**
+🔗 **[View Repository](https://github.com/Srimanta2006/Calculator)**
 
 ---
 
-### 📚 E-Learning Platform
+### 🌤️ WEATHER APPLICATION
 
-> A full-stack learning platform designed for online courses, video content and student learning.
+> A responsive weather web application that provides real-time weather information using API integration.
 
 **✨ Highlights**
 
-- 📖 Online course experience
-- 🎥 Video-based learning
-- 👨‍🎓 Student-focused interface
-- ☁️ Cloud-based media
+-🌍 Search weather by city
+-🌡️ Real-time temperature and weather conditions
+-💨 Wind speed and humidity details
+-☁️ Dynamic weather information using API
+-📱 Responsive and user-friendly interface
 
-**🛠️ Tech:** React • Node.js • MySQL • Cloudinary
+**🛠️ Tech:** HTML • CSS • JavaScript • Weather API
 
-🔗 **[View Repository](YOUR_ELEARNING_REPO_LINK)**
-
----
+🔗 **[View Repository](https://github.com/Srimanta2006/weatherly)**
 
 ### 🏡 My Village
 
@@ -131,7 +132,7 @@ Building modern, responsive & interactive web experiences.
 
 **🛠️ Tech:** HTML • CSS • JavaScript
 
-🔗 **[View Repository](YOUR_MY_VILLAGE_REPO_LINK)**
+🔗 **[View Repository](https://github.com/Srimanta2006/My-Village)**
 
 ---
 

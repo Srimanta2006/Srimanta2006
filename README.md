@@ -80,7 +80,7 @@ Building modern, responsive & interactive web experiences.
 
 **🛠️ Tech:** React • JavaScript • GSAP • Tailwind CSS
 
-🔗 **[View Repository](YOUR_PORTFOLIO_REPO_LINK)**
+🔗 **[View Repository](https://github.com/Srimanta2006/Portfolio)**
 
 ---
 

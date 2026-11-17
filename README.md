@@ -138,22 +138,7 @@ Building modern, responsive & interactive web experiences.
 
 🔗 **[View Repository](https://github.com/Srimanta2006/weatherly)**
 
-### 🏡 My Village
 
-> A responsive website showcasing my village, its places, culture and local information.
-
-**✨ Highlights**
-
-- 🌍 Local information
-- 📱 Responsive design
-- 🖼️ Visual content
-- 🎨 Clean UI
-
-**🛠️ Tech:** HTML • CSS • JavaScript
-
-🔗 **[View Repository](https://github.com/Srimanta2006/My-Village)**
-
----
 
 <p align="center">
   <b>💡 More projects available on my GitHub.</b>

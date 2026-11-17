@@ -100,7 +100,7 @@ Building modern, responsive & interactive web experiences.
 
 ### 🛠️ Tech Stack: ** React js • JavaScript(ES6+) • Tailwind CSS • React Router • Context API • LocalStorage • React Icons 
 
-🔗 **[View Repository](https://github.com/Srimanta2006/Calculator)**
+🔗 **[View Repository](https://github.com/Srimanta2006/rovard-)**
 
 ---
 

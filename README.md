@@ -47,6 +47,24 @@ Building modern, responsive & interactive web experiences.
 
 <br>
 
+### 💻 Personal Portfolio
+
+
+> A modern developer portfolio designed to showcase my projects, skills and frontend work through interactive animations.
+
+**✨ Highlights**
+
+- 🎨 Creative UI design
+- 🖱️ Interactive interactions
+- ✨ GSAP animations
+- 📱 Responsive layout
+
+**🛠️ Tech:** React • JavaScript • GSAP • Tailwind CSS
+
+🔗 **[View Repository](https://github.com/Srimanta2006/Portfolio)**
+
+---
+
 ### 🛍️ VastraLoom — E-Commerce Website
 <!-- <p align="center">
   <img src="VastraLoom.png" width="800">
@@ -66,24 +84,25 @@ Building modern, responsive & interactive web experiences.
 
 ---
 
-### 💻 Personal Portfolio
+### 🛍️ ROVARD – Premium Streetwear E-commerce Website
 
+> ROVARD is a modern streetwear e-commerce frontend built using **React.js and Tailwind CSS**, featuring a premium dark-themed design with bold typography and an orange accent aesthetic.
 
-> A modern developer portfolio designed to showcase my projects, skills and frontend work through interactive animations.
+### ✨ Highlights
+- Product browsing and category-based filtering
+- Individual product details pages
+- Shopping cart management
+- Wishlist functionality
+- Checkout interface
+- State management using React Context API
+- Cart and wishlist persistence using LocalStorage
+- Seamless navigation using React Router
 
-**✨ Highlights**
+### 🛠️ Tech Stack: ** React js • JavaScript(ES6+) • Tailwind CSS • React Router • Context API • LocalStorage • React Icons 
 
-- 🎨 Creative UI design
-- 🖱️ Interactive interactions
-- ✨ GSAP animations
-- 📱 Responsive layout
-
-**🛠️ Tech:** React • JavaScript • GSAP • Tailwind CSS
-
-🔗 **[View Repository](https://github.com/Srimanta2006/Portfolio)**
+🔗 **[View Repository](https://github.com/Srimanta2006/Calculator)**
 
 ---
-
 
 ### 🧮 CALCULATOR
 
@@ -99,7 +118,7 @@ Building modern, responsive & interactive web experiences.
 
 **🛠️ Tech:** HTML • CSS • JavaScript
 
-🔗 **[View Repository](https://github.com/Srimanta2006/Calculator)**
+🔗 **[View Repository](https://github.com/Srimanta2006/rovard-)**
 
 ---
 
